@@ -1,5 +1,4 @@
 # SPF Practical Exercises
-[
 
 ## Citation
 If you use this repository, please cite it as:
